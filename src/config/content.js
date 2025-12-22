@@ -41,7 +41,7 @@ export const education = {
   school: 'Chitkara University, Rajpura (Punjab, India)',
   degree: 'B.E. in Computer Science',
   cgpa: '9.4 CGPA',
-  year: '2022',
+  year: '2025',
   degreePdf: '/degree.pdf',
   schoolImage: 'https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/03/CUB4-Top-10-reasons-why-Chitkara-University-is-the-best-University-in-North-India.jpg',
   location: 'Rajpura, Punjab, India',
@@ -161,12 +161,11 @@ export const projects = [
   },
   {
     title: 'Real-Time Chat Application',
-    description:
-      'A real-time messaging application with group chats, file sharing, and video call capabilities. Built with React and Node.js.',
-    image: '/images/project-5.jpg',
+    description:'A real-time one-to-one chat application with image sharing, built using React, Node.js, and Socket.IO. It features secure user authentication, a theme-based UI, instant message delivery, and real-time online/offline user status.',
+    image: '/images/project-5.png',
     techStack: ['React', 'Node.js', 'Socket.io', 'MongoDB'],
-    githubLink: 'https://github.com',
-    liveLink: 'https://example.com',
+    githubLink: 'https://github.com/Rishab1157/Chat_Application_Backend',
+    liveLink: 'https://rishabchatty-19-11-2003.netlify.app/',
   },
   {
     title: 'Cloud-Based File Storage',
