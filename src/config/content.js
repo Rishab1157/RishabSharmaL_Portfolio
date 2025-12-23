@@ -168,13 +168,12 @@ export const projects = [
     liveLink: 'https://rishabchatty-19-11-2003.netlify.app/',
   },
   {
-    title: 'Cloud-Based File Storage',
-    description:
-      'A secure file storage and sharing platform with encryption, version control, and collaboration features. Deployed on AWS.',
-    image: '/images/project-6.jpg',
-    techStack: ['React', '.NET', 'AWS S3', 'MSSQL'],
-    githubLink: 'https://github.com',
-    liveLink: 'https://example.com',
+    title: 'Blog Management Application',
+    description:'A full-stack blog management application that allows users to create, edit, and manage blog posts with secure authentication. Built using React, Node.js, Express, and MongoDB, featuring JWT-based auth, image uploads, and a responsive UI.',
+    image: '/images/project-6.png',
+    techStack: ['React', 'Node.js', 'MongoDB'],
+    githubLink: 'https://github.com/Rishab1157/Blog_Management_Application',
+    liveLink: 'https://rishabblog-19-11-2003.netlify.app/',
   },
 ]
 
