@@ -40,7 +40,7 @@ export const snapshotItems = [
 export const education = {
   school: 'Chitkara University, Rajpura (Punjab, India)',
   degree: 'B.E. in Computer Science',
-  cgpa: '9.4 CGPA',
+  cgpa: '9.37 CGPA',
   year: '2025',
   degreePdf: '/degree.pdf',
   schoolImage: 'https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/03/CUB4-Top-10-reasons-why-Chitkara-University-is-the-best-University-in-North-India.jpg',
@@ -92,7 +92,8 @@ export const experiences = [
     mapLink: 'https://maps.app.goo.gl/SwC6hM754yUykXoB6',
     certificates: [
       { name: 'Offer Letter', url: '/docs/offer-letter.pdf' },
-      { name: 'Star Team Award Finals 2025 (S&S Activewear)', url: '/docs/star-team-award-finalist-Q3-2025.pdf' }
+      { name: 'Star Team Award Finals 2025 (S&S Activewear)', url: '/docs/star-team-award-finalist-Q3-2025.pdf' },
+      { name: 'SPOT Award December 2025', url: '/docs/spot-award-2025.pdf' }
     ],
     description: [
       'Built dynamic front-end applications using React and Angular.',
